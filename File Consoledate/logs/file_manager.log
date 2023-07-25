@@ -1,0 +1,21 @@
+2023-07-25 12:53:47,421 - ERROR - Error: Source folder 'data\folder1' not found.
+2023-07-25 12:58:17,579 - ERROR - Error: Source folder 'data\folder1' not found.
+2023-07-25 12:59:35,472 - ERROR - Error: Source folder 'data\folder1' not found.
+2023-07-25 13:01:48,972 - ERROR - Error: Source folder 'data\folder1' not found.
+2023-07-25 13:02:04,527 - ERROR - Error: Source folder 'data\folder1' not found.
+2023-07-25 13:02:56,942 - ERROR - Error: Source folder 'data\folder1' not found.
+2023-07-25 17:05:29,783 - ERROR - Error: 'Source Folder'
+2023-07-25 17:06:25,911 - ERROR - Error: 'Source Folder'
+2023-07-25 17:06:46,979 - ERROR - Error: 'Source Folder'
+2023-07-25 17:08:08,557 - ERROR - Error: 'Source Folder'
+2023-07-25 17:11:14,472 - ERROR - Error: 'Source Folder'
+2023-07-25 17:14:09,431 - ERROR - Error: 'Source Folder'
+2023-07-25 17:18:15,797 - ERROR - Error: 'Source Folder'
+2023-07-25 17:18:57,303 - ERROR - Error: 'Source Foldersss'
+2023-07-25 17:20:04,995 - ERROR - Error: 'Source Folder'
+2023-07-25 17:21:42,363 - ERROR - Error: 'Source Folder'
+2023-07-25 18:01:08,505 - ERROR - Error: 'Source Folder'
+2023-07-25 18:03:34,448 - ERROR - Error: Source folder 'data\folder1' not found.
+2023-07-25 18:28:03,914 - ERROR - Error: FileManager.consolidate_files() takes 2 positional arguments but 4 were given
+2023-07-25 18:30:15,764 - ERROR - Error: Source folder 'folder1' not found.
+ERROR - Error: 'Source Folder' - 2023-07-25 18:35:50,481
